@@ -1,2 +1,3 @@
-# bookbot
-boot.dev lesson - 1st pythn project
+ bookbot
+
+ BookBot is my first [Boot.dev](https://www.boot.dev) project!
