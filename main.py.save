@@ -1,0 +1,18 @@
+def get_book_text(path) :
+	with open(path) as f :
+		return(f.read())
+
+def count_words(text) :
+	nb_words=0
+	text=get_book_path(path)
+	for w in text :
+		nb_words+=1
+		return nb_words
+
+def main ():
+	
+
+main()
+
+
+#"books/frankenstein.txt
